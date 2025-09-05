@@ -1,1 +1,1 @@
-# binary-tree-automation-with-junit
+# binary-tree-automation-junit
